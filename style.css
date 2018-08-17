@@ -20,3 +20,7 @@ nav#main-nav {
 color:white;
 
 }
+
+div#menu {
+  display:none;
+}
